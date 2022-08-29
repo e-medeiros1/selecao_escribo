@@ -19,11 +19,11 @@
 <h2> Como usar </h2>
 
    ```
-   - Clone o repositório:
-   $ git clone https://github.com/e-medeiros1/selecao_escribo 
-   - In terminal, Enter in directory:
-   $ cd selecao_escribo
-   - Run the app: 
+   - Com o git instalado no computador, clone o repositório usando o:
+   $ git clone https://github.com/e-medeiros1/selecao_escribo.git 
+   - Entre no diretório com:
+   $ cd .\selecao_escribo\desafio_técnico\
+   - Rode a aplicação através do comando: 
    $ dart run .\teste_01.dart 
    ```
 
